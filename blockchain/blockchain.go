@@ -1,7 +1,7 @@
 package blockchain
 
 import (
-	"./block"
+	"github.com/TheMadius/Go/block"
 )
 
 type Blockchain struct {
